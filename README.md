@@ -3,6 +3,11 @@
 
 ZIP is file format that is used for data compression. It also supports password protection. 
 This program helps in knowing the password in case forgot it.
+
+## Screenshots
+
+![App Screenshot](https://github.com/shaurya121/Brute-Force-Attack-Zip-File-Using-Python/blob/main/Screenshot.png/468x300)
+
 ## Installation
 
 Install tqdm module to create progress bar
