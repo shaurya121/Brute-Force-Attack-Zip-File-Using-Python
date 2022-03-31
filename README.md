@@ -6,9 +6,8 @@ This program helps in knowing the password in case forgot it.
 
 ## Screenshots
 
-![App Screenshot](## Screenshots
 
-![App Screenshot](https://github.com/shaurya121/Brute-Force-Attack-Zip-File-Using-Python/blob/main/Screenshot.png/468x300?text=App+Screenshot+Here/468x300)
+![App Screenshot](https://github.com/shaurya121/Brute-Force-Attack-Zip-File-Using-Python/blob/main/Screenshot.png)
 
 ## Installation
 
