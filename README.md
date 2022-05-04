@@ -6,7 +6,7 @@ This program helps in knowing the password in case forgot it.
 
 ## Screenshots
 
-
+![App Screenshot](https://raw.githubusercontent.com/shaurya121/Home-security-System/main/Screenshots/inactive.jpg)
 ![App Screenshot](https://github.com/shaurya121/Brute-Force-Attack-Zip-File-Using-Python/blob/main/Screenshot.png)
 
 ## Installation
